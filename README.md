@@ -6,7 +6,7 @@ Quick Lorem Ipsum generator for Alfred.app.
 Installation
 ------------
 
-cd ~/Library/Application\ Support/Alfred/extensions/scripts && git clone git://github.com/aaronlake/alfredapp-lorem-ipsum.git
+    cd ~/Library/Application\ Support/Alfred/extensions/scripts && git clone git://github.com/aaronlake/alfredapp-lorem-ipsum.git
 
 Usage
 -----
